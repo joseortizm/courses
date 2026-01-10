@@ -9,3 +9,17 @@ Welcome to Anthropic's educational courses. This repository currently contains f
 5. [Tool use](./tool_use/README.md) - teaches everything you need to know to implement tool use successfully in your workflows with Claude.
 
 **Please note that these courses often favor our lowest-cost model, Claude 3 Haiku, to keep API costs down for students following along with the materials. Feel free to use other Claude models if you prefer.**
+
+---
+
+## Spanish / Español
+
+Este repositorio cuenta con traducciones comunitarias al español de algunos cursos de Anthropic, con el objetivo de reducir la barrera de acceso para estudiantes y desarrolladores hispanohablantes, especialmente en Latinoamérica y España.
+
+### Cursos disponibles en español
+
+1. [Fundamentos de la API de Anthropic](./anthropic_api_fundamentals/es/README.md)  
+   Introduce los conceptos esenciales para trabajar con el SDK de Claude, incluyendo la obtención de la API key, el uso de parámetros del modelo, la creación de prompts multimodales y el streaming de respuestas.
+
+> Nota: Las traducciones al español son contribuciones de la comunidad y no modifican el contenido original en inglés.
+
